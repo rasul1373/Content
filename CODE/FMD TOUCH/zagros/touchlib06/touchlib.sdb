@@ -1,0 +1,400 @@
+[p PRO_MODE GLOBOPT AUTOSTATIC RSC14 RSC14E SPACEOPT ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip FT62F08X ]
+[d frameptr 6 ]
+"6 C:\Program Files (x86)\CCompiler\Compiler\data\sources\common\awdiv.c
+[v ___awdiv __awdiv `(i  1 e 2 0 ]
+"62 C:\Program Files (x86)\CCompiler\Compiler\data\sources\common\float.c
+[v ___ftpack __ftpack `(f  1 e 3 0 ]
+"86 C:\Program Files (x86)\CCompiler\Compiler\data\sources\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 3 0 ]
+"15 C:\Program Files (x86)\CCompiler\Compiler\data\sources\common\Umul16.c
+[v ___wmul __wmul `(ui  1 e 2 0 ]
+"35 C:\Users\Zagros\Desktop\FMD\zagros\touchlib06\main.c
+[v _ISR ISR `II(v  1 e 1 0 ]
+"69
+[v _user_isr user_isr `(v  1 e 1 0 ]
+"84
+[v _SysInit SysInit `(v  1 e 1 0 ]
+"103
+[v _Time4Initial Time4Initial `(v  1 e 1 0 ]
+"175
+[v _main main `(v  1 e 1 0 ]
+"113 TOUCH.C
+[v _DIV DIV `(v  1 e 1 0 ]
+"202
+[v _TouchInit TouchInit `(v  1 e 1 0 ]
+"229
+[v _TouchInital TouchInital `(v  1 e 1 0 ]
+"296
+[v _MxSet013 MxSet013 `(v  1 e 1 0 ]
+"308
+[v _StartHigeFreq StartHigeFreq `(v  1 e 1 0 ]
+"495
+[v _ReadTouchData ReadTouchData `(v  1 e 1 0 ]
+"1023
+[v _HighFreqCo HighFreqCo `(v  1 e 1 0 ]
+"1059
+[v _DataProcessing DataProcessing `(v  1 s 1 DataProcessing ]
+"1406
+[v _TouchKeyScan TouchKeyScan `(ui  1 e 2 0 ]
+"22 D:\01通用资料\06 - 工具\工具-20220223\IDE3.0.6\data\include\FT62F08X.h
+[v _STATUS STATUS `VEuc  1 e 1 @3 ]
+"99
+[v _INTCON INTCON `VEuc  1 e 1 @11 ]
+"125
+[v _PORTA PORTA `VEuc  1 e 1 @12 ]
+"176
+[v _PORTB PORTB `VEuc  1 e 1 @13 ]
+"227
+[v _PORTC PORTC `VEuc  1 e 1 @14 ]
+"278
+[v _PORTD PORTD `VEuc  1 e 1 @15 ]
+"495
+[v _TRISA TRISA `VEuc  1 e 1 @140 ]
+"501
+[v _TRISA4 TRISA4 `VEb  1 e 0 @1124 ]
+"502
+[v _TRISA5 TRISA5 `VEb  1 e 0 @1125 ]
+"503
+[v _TRISA6 TRISA6 `VEb  1 e 0 @1126 ]
+"504
+[v _TRISA7 TRISA7 `VEb  1 e 0 @1127 ]
+"525
+[v _TRISB TRISB `VEuc  1 e 1 @141 ]
+"529
+[v _TRISB2 TRISB2 `VEb  1 e 0 @1130 ]
+"530
+[v _TRISB3 TRISB3 `VEb  1 e 0 @1131 ]
+"531
+[v _TRISB4 TRISB4 `VEb  1 e 0 @1132 ]
+"534
+[v _TRISB7 TRISB7 `VEb  1 e 0 @1135 ]
+"555
+[v _TRISC TRISC `VEuc  1 e 1 @142 ]
+"557
+[v _TRISC0 TRISC0 `VEb  1 e 0 @1136 ]
+"558
+[v _TRISC1 TRISC1 `VEb  1 e 0 @1137 ]
+"560
+[v _TRISC3 TRISC3 `VEb  1 e 0 @1139 ]
+"561
+[v _TRISC4 TRISC4 `VEb  1 e 0 @1140 ]
+"562
+[v _TRISC5 TRISC5 `VEb  1 e 0 @1141 ]
+"563
+[v _TRISC6 TRISC6 `VEb  1 e 0 @1142 ]
+"564
+[v _TRISC7 TRISC7 `VEb  1 e 0 @1143 ]
+"591
+[v _TRISD5 TRISD5 `VEb  1 e 0 @1149 ]
+"752
+[v _OSCCON OSCCON `VEuc  1 e 1 @153 ]
+"783
+[v _PCKEN PCKEN `VEuc  1 e 1 @154 ]
+"1038
+[v _TIM4CR1 TIM4CR1 `VEuc  1 e 1 @273 ]
+"1063
+[v _TIM4IER TIM4IER `VEuc  1 e 1 @274 ]
+"1065
+[v _T4UIE T4UIE `VEb  1 e 0 @2192 ]
+"1075
+[v _TIM4SR TIM4SR `VEuc  1 e 1 @275 ]
+"1077
+[v _T4UIF T4UIF `VEb  1 e 0 @2200 ]
+"1088
+[v _TIM4EGR TIM4EGR `VEuc  1 e 1 @276 ]
+"1101
+[v _TIM4CNTR TIM4CNTR `VEuc  1 e 1 @277 ]
+"1106
+[v _TIM4PSCR TIM4PSCR `VEuc  1 e 1 @278 ]
+"1126
+[v _TIM4ARR TIM4ARR `VEuc  1 e 1 @279 ]
+"2560
+[v _TKTMR TKTMR `VEuc  1 e 1 @908 ]
+"2564
+[v _TKC0 TKC0 `VEuc  1 e 1 @909 ]
+"2570
+[v _TKST TKST `VEb  1 e 0 @7277 ]
+"2571
+[v _TKRCOV TKRCOV `VEb  1 e 0 @7278 ]
+"2590
+[v _TKC1 TKC1 `VEuc  1 e 1 @910 ]
+"2611
+[v _WPROOF1 WPROOF1 `VEuc  1 e 1 @911 ]
+"2615
+[v _WPROOF2 WPROOF2 `VEuc  1 e 1 @912 ]
+"2619
+[v _WPROOF3 WPROOF3 `VEuc  1 e 1 @913 ]
+"2648
+[v _M0ANALOG M0ANALOG `VEuc  1 e 1 @914 ]
+"2679
+[v _M1ANALOG M1ANALOG `VEuc  1 e 1 @915 ]
+"2710
+[v _M2ANALOG M2ANALOG `VEuc  1 e 1 @916 ]
+"2740
+[v _M3ANALOG M3ANALOG `VEuc  1 e 1 @917 ]
+"2772
+[v _TKM0C0 TKM0C0 `VEuc  1 e 1 @918 ]
+"2802
+[v _TKM0C1 TKM0C1 `VEuc  1 e 1 @919 ]
+"2828
+[v _TKM1C0 TKM1C0 `VEuc  1 e 1 @920 ]
+"2858
+[v _TKM1C1 TKM1C1 `VEuc  1 e 1 @921 ]
+"2884
+[v _TKM2C0 TKM2C0 `VEuc  1 e 1 @922 ]
+"2914
+[v _TKM2C1 TKM2C1 `VEuc  1 e 1 @923 ]
+"2939
+[v _TKM3C0 TKM3C0 `VEuc  1 e 1 @924 ]
+"2969
+[v _TKM3C1 TKM3C1 `VEuc  1 e 1 @925 ]
+"3744
+[v _TKM016DL TKM016DL `VEuc  1 e 1 @3988 ]
+"3749
+[v _TKM016DH TKM016DH `VEuc  1 e 1 @3989 ]
+"3784
+[v _TKM116DL TKM116DL `VEuc  1 e 1 @3996 ]
+"3789
+[v _TKM116DH TKM116DH `VEuc  1 e 1 @3997 ]
+"3824
+[v _TKM216DL TKM216DL `VEuc  1 e 1 @4004 ]
+"3829
+[v _TKM216DH TKM216DH `VEuc  1 e 1 @4005 ]
+"3864
+[v _TKM316DL TKM316DL `VEuc  1 e 1 @4012 ]
+"3869
+[v _TKM316DH TKM316DH `VEuc  1 e 1 @4013 ]
+"3928
+[v _ad3nop ad3nop `DCuc  1 e 1 @3 ]
+"19 C:\Users\Zagros\Desktop\FMD\zagros\touchlib06\main.c
+[v _W_TMP W_TMP `VEuc  1 e 1 @112 ]
+"20
+[v _BSR_TMP BSR_TMP `VEuc  1 e 1 @113 ]
+"23
+[v _readKeyNum readKeyNum `VEui  1 e 2 0 ]
+"26
+[v _lastkey lastkey `ui  1 e 2 0 ]
+"27
+[v _TouchTimeCount TouchTimeCount `ui  1 e 2 0 ]
+"28
+[v _power_index power_index `VEuc  1 e 1 0 ]
+"9 TOUCH.C
+[v _NumD NumD `uc  1 e 1 0 ]
+"10
+[v _TouchcapBuff1 TouchcapBuff1 `[15]ui  1 e 30 0 ]
+[v _TouchcapBuff2 TouchcapBuff2 `[15]ui  1 e 30 0 ]
+"11
+[v _fmd_updataChannel fmd_updataChannel `[15]uc  1 e 15 0 ]
+"35
+[v _fmd_OriginalData fmd_OriginalData `ui  1 s 2 fmd_OriginalData ]
+"36
+[v _fmd_ReferenceData fmd_ReferenceData `ui  1 s 2 fmd_ReferenceData ]
+"37
+[v _fmd_ResultData fmd_ResultData `ui  1 s 2 fmd_ResultData ]
+"38
+[v _fmd_ResultDataH fmd_ResultDataH `uc  1 s 1 fmd_ResultDataH ]
+"39
+[v _fmd_Null0 fmd_Null0 `uc  1 s 1 fmd_Null0 ]
+"40
+[v _fmd_Null1 fmd_Null1 `uc  1 s 1 fmd_Null1 ]
+"41
+[v _fmd_Null2 fmd_Null2 `uc  1 s 1 fmd_Null2 ]
+"42
+[v _fmd_Null3 fmd_Null3 `uc  1 s 1 fmd_Null3 ]
+"44
+[v _fmd_antishaketimecount fmd_antishaketimecount `uc  1 s 1 fmd_antishaketimecount ]
+"45
+[v _fmd_antishaketimecount1 fmd_antishaketimecount1 `uc  1 s 1 fmd_antishaketimecount1 ]
+"47
+[v _fmd_Keystatus fmd_Keystatus `VEui  1 e 2 0 ]
+"48
+[v _fmd_Keystatus1 fmd_Keystatus1 `VEui  1 e 2 0 ]
+"49
+[v _fmd_Keystatus2 fmd_Keystatus2 `VEui  1 e 2 0 ]
+"51
+[v _fmd_KeyBuffPress fmd_KeyBuffPress `uc  1 s 1 fmd_KeyBuffPress ]
+"52
+[v _fmd_KeyBuffUnPress fmd_KeyBuffUnPress `uc  1 s 1 fmd_KeyBuffUnPress ]
+"53
+[v _fmd_channels fmd_channels `uc  1 e 1 0 ]
+"55
+[v _fmd_a fmd_a `VEuc  1 e 1 0 ]
+[v _fmd_a1 fmd_a1 `VEuc  1 e 1 0 ]
+[v _fmd_a2 fmd_a2 `VEuc  1 e 1 0 ]
+[v _fmd_a3 fmd_a3 `VEuc  1 e 1 0 ]
+[v _fmd_u fmd_u `VEuc  1 e 1 0 ]
+"57
+[v _fmd_thedeathcount fmd_thedeathcount `ui  1 s 2 fmd_thedeathcount ]
+"58
+[v _fmd_thedeathcount1 fmd_thedeathcount1 `ui  1 s 2 fmd_thedeathcount1 ]
+"59
+[v _fmd_thedeathcount2 fmd_thedeathcount2 `ui  1 s 2 fmd_thedeathcount2 ]
+"60
+[v _fmd_currentCount fmd_currentCount `uc  1 s 1 fmd_currentCount ]
+"61
+[v _fmd_TouchDataBuff_Key fmd_TouchDataBuff_Key `[4]ui  1 s 8 fmd_TouchDataBuff_Key ]
+"62
+[v _fmd_nodownavrdata_Key fmd_nodownavrdata_Key `[15][4]ui  1 s 120 fmd_nodownavrdata_Key ]
+"63
+[v _fmd_nodownsum_Key fmd_nodownsum_Key `[15][4]ui  1 s 120 fmd_nodownsum_Key ]
+"64
+[v _fmd_KeyDValue_Key fmd_KeyDValue_Key `[4]uc  1 s 4 fmd_KeyDValue_Key ]
+"65
+[v _fmd_KeyDValue_Key_base fmd_KeyDValue_Key_base `[2]ui  1 s 4 fmd_KeyDValue_Key_base ]
+"66
+[v _fmd_KeyDValue_Key_baseBuff fmd_KeyDValue_Key_baseBuff `[2]ui  1 s 4 fmd_KeyDValue_Key_baseBuff ]
+"68
+[v _fmd_theUsedChannel fmd_theUsedChannel `[15]uc  1 s 15 fmd_theUsedChannel ]
+"69
+[v _fmd_f_keydown_flag fmd_f_keydown_flag `b  1 s 0 fmd_f_keydown_flag ]
+"70
+[v _fmd_f_firstdown fmd_f_firstdown `b  1 s 0 fmd_f_firstdown ]
+"71
+[v _fmd_f_firstloop fmd_f_firstloop `b  1 s 0 fmd_f_firstloop ]
+"72
+[v _fmd_f_main_key fmd_f_main_key `b  1 s 0 fmd_f_main_key ]
+"73
+[v _fmd_f_forbidden fmd_f_forbidden `b  1 s 0 fmd_f_forbidden ]
+"75
+[v _fmd_updataFlag fmd_updataFlag `uc  1 s 1 fmd_updataFlag ]
+"76
+[v _fmd_TestCount fmd_TestCount `uc  1 s 1 fmd_TestCount ]
+"77
+[v _fmd_PressOff fmd_PressOff `uc  1 s 1 fmd_PressOff ]
+"78
+[v _fmd_PressOffCount fmd_PressOffCount `uc  1 s 1 fmd_PressOffCount ]
+"79
+[v _fmd_UpTouchCount fmd_UpTouchCount `ui  1 s 2 fmd_UpTouchCount ]
+"80
+[v _fmd_DownTouchCount fmd_DownTouchCount `ui  1 s 2 fmd_DownTouchCount ]
+"82
+[v _fmd_HfreqOn fmd_HfreqOn `uc  1 s 1 fmd_HfreqOn ]
+"83
+[v _fmd_AntiWaterBit fmd_AntiWaterBit `uc  1 s 1 fmd_AntiWaterBit ]
+[v _fmd_x fmd_x `uc  1 s 1 fmd_x ]
+"85
+[v _fmd_UpDataTime fmd_UpDataTime `ui  1 s 2 fmd_UpDataTime ]
+"86
+[v _fmd_DownDataTime fmd_DownDataTime `ui  1 s 2 fmd_DownDataTime ]
+"89
+[v _fmd_Startgx fmd_Startgx `uc  1 s 1 fmd_Startgx ]
+"29 C:\Users\Zagros\Desktop\FMD\zagros\touchlib06\touch.h
+[v _FWHEELSILERB FWHEELSILERB `DC[4]uc  1 e 4 0 ]
+"30
+[v _SWHEELSILERB SWHEELSILERB `DC[4]uc  1 e 4 0 ]
+"262
+[v _ACTIVE_SENSOR_DELTA ACTIVE_SENSOR_DELTA `DC[15][6]uc  1 e 90 0 ]
+"282
+[v _INACTIVE_SENSOR_DELTA INACTIVE_SENSOR_DELTA `DC[15][6]uc  1 e 90 0 ]
+"175 C:\Users\Zagros\Desktop\FMD\zagros\touchlib06\main.c
+[v _main main `(v  1 e 1 0 ]
+{
+"229
+} 0
+"6 C:\Program Files (x86)\CCompiler\Compiler\data\sources\common\awdiv.c
+[v ___awdiv __awdiv `(i  1 e 2 0 ]
+{
+"11
+[v ___awdiv@quotient quotient `i  1 a 2 6 ]
+"12
+[v ___awdiv@sign sign `uc  1 a 1 5 ]
+[v ___awdiv@counter counter `uc  1 a 1 4 ]
+"6
+[v ___awdiv@divisor divisor `i  1 p 2 0 ]
+[v ___awdiv@dividend dividend `i  1 p 2 2 ]
+"42
+} 0
+"1406 TOUCH.C
+[v _TouchKeyScan TouchKeyScan `(ui  1 e 2 0 ]
+{
+"1447
+} 0
+"495
+[v _ReadTouchData ReadTouchData `(v  1 e 1 0 ]
+{
+"1021
+} 0
+"296
+[v _MxSet013 MxSet013 `(v  1 e 1 0 ]
+{
+[v MxSet013@a a `uc  1 a 1 wreg ]
+[v MxSet013@a a `uc  1 a 1 wreg ]
+"298
+[v MxSet013@a a `uc  1 a 1 0 ]
+"304
+} 0
+"1059
+[v _DataProcessing DataProcessing `(v  1 s 1 DataProcessing ]
+{
+"1404
+} 0
+"15 C:\Program Files (x86)\CCompiler\Compiler\data\sources\common\Umul16.c
+[v ___wmul __wmul `(ui  1 e 2 0 ]
+{
+"17
+[v ___wmul@product product `ui  1 a 2 4 ]
+"15
+[v ___wmul@multiplier multiplier `ui  1 p 2 0 ]
+[v ___wmul@multiplicand multiplicand `ui  1 p 2 2 ]
+"53
+} 0
+"308 TOUCH.C
+[v _StartHigeFreq StartHigeFreq `(v  1 e 1 0 ]
+{
+[v StartHigeFreq@a a `uc  1 a 1 wreg ]
+[v StartHigeFreq@a a `uc  1 a 1 wreg ]
+"310
+[v StartHigeFreq@a a `uc  1 a 1 5 ]
+"491
+} 0
+"202
+[v _TouchInit TouchInit `(v  1 e 1 0 ]
+{
+[v TouchInit@Time Time `uc  1 a 1 wreg ]
+[v TouchInit@Time Time `uc  1 a 1 wreg ]
+"204
+[v TouchInit@Time Time `uc  1 a 1 0 ]
+"227
+} 0
+"113
+[v _DIV DIV `(v  1 e 1 0 ]
+{
+"200
+} 0
+"1023
+[v _HighFreqCo HighFreqCo `(v  1 e 1 0 ]
+{
+[v HighFreqCo@a a `uc  1 a 1 wreg ]
+[v HighFreqCo@a a `uc  1 a 1 wreg ]
+"1025
+[v HighFreqCo@a a `uc  1 a 1 6 ]
+"1056
+} 0
+"229
+[v _TouchInital TouchInital `(v  1 e 1 0 ]
+{
+"295
+} 0
+"103 C:\Users\Zagros\Desktop\FMD\zagros\touchlib06\main.c
+[v _Time4Initial Time4Initial `(v  1 e 1 0 ]
+{
+"169
+} 0
+"84
+[v _SysInit SysInit `(v  1 e 1 0 ]
+{
+"97
+} 0
+"35
+[v _ISR ISR `II(v  1 e 1 0 ]
+{
+"62
+} 0
+"69
+[v _user_isr user_isr `(v  1 e 1 0 ]
+{
+"77
+} 0
