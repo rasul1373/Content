@@ -1,0 +1,21 @@
+# ninja log v5
+1	81	7825591057390764	C:/Users/Zagros/Desktop/STM/CODE/GY30/EWARM/GY30/Obj/Application/EWARM/startup_stm32f103xb.o	4486339d58af37a2
+11	424	7825591060652044	C:/Users/Zagros/Desktop/STM/CODE/GY30/EWARM/GY30/Obj/Application/User/Core/GY-30.o	605b9a8ef5aa988c
+84	501	7825591061419991	C:/Users/Zagros/Desktop/STM/CODE/GY30/EWARM/GY30/Obj/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal.o	bfc44604d86a2560
+431	679	7825591063221284	C:/Users/Zagros/Desktop/STM/CODE/GY30/EWARM/GY30/Obj/Application/User/Core/stm32f1xx_it.o	47c173c7aee4b661
+686	939	7825591065734564	C:/Users/Zagros/Desktop/STM/CODE/GY30/EWARM/GY30/Obj/Application/User/Core/stm32f1xx_hal_msp.o	5356b82de132d92f
+717	974	7825591065944002	C:/Users/Zagros/Desktop/STM/CODE/GY30/EWARM/GY30/Obj/Drivers/CMSIS/system_stm32f1xx.o	107ad7d07f98dbcc
+981	1314	7825591069580360	C:/Users/Zagros/Desktop/STM/CODE/GY30/EWARM/GY30/Obj/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_flash.o	6f10f21c0e1ebd01
+948	1486	7825591071155966	C:/Users/Zagros/Desktop/STM/CODE/GY30/EWARM/GY30/Obj/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_dma.o	9f3e1ff689edbec1
+1326	1686	7825591073284174	C:/Users/Zagros/Desktop/STM/CODE/GY30/EWARM/GY30/Obj/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_exti.o	169eabbcb65ec0f6
+1494	1919	7825591075557893	C:/Users/Zagros/Desktop/STM/CODE/GY30/EWARM/GY30/Obj/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_flash_ex.o	88ed6fa183fa02b3
+1695	2028	7825591076625040	C:/Users/Zagros/Desktop/STM/CODE/GY30/EWARM/GY30/Obj/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_cortex.o	75bd6f4e07915054
+1926	2218	7825591078596102	C:/Users/Zagros/Desktop/STM/CODE/GY30/EWARM/GY30/Obj/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_gpio_ex.o	71003e9c1f17554f
+2034	2422	7825591080650797	C:/Users/Zagros/Desktop/STM/CODE/GY30/EWARM/GY30/Obj/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_gpio.o	8418d4c7112e578a
+2436	2719	7825591083609808	C:/Users/Zagros/Desktop/STM/CODE/GY30/EWARM/GY30/Obj/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_pwr.o	e9728a5f1e9d8424
+2729	3229	7825591088713354	C:/Users/Zagros/Desktop/STM/CODE/GY30/EWARM/GY30/Obj/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_rcc.o	f1f6055590cf681d
+3236	3516	7825591091595662	C:/Users/Zagros/Desktop/STM/CODE/GY30/EWARM/GY30/Obj/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_rcc_ex.o	852a942738e25d99
+2226	4934	7825591105708689	C:/Users/Zagros/Desktop/STM/CODE/GY30/EWARM/GY30/Obj/Drivers/STM32F1xx_HAL_Driver/stm32f1xx_hal_i2c.o	c5d5a3b2a7899603
+2	248	7825591528740910	C:/Users/Zagros/Desktop/STM/CODE/GY30/EWARM/GY30/Obj/Application/User/Core/main.o	a52dc55f6b61428
+256	390	7825591530226932	C:/Users/Zagros/Desktop/STM/CODE/GY30/EWARM/GY30/Exe/GY30.out	add1808fae6adfd5
+407	423	7825591530645643	C:/Users/Zagros/Desktop/STM/CODE/GY30/EWARM/GY30/Exe/GY30.hex	489d05538495a8f0
